@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/lib/fonts-imp/zalando_b604294c.module.css"],"sourcesContent":["@font-face {\n    font-family: 'zalando';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./fonts/font.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    font-weight: 400;font-style: normal;\n}\n\n@font-face {\n    font-family: 'zalando Fallback';\n    src: local(\"Arial\");\n    ascent-override: 78.96%;\ndescent-override: 20.48%;\nline-gap-override: 0.00%;\nsize-adjust: 122.09%;\n\n}\n\n.className {\n    font-family: 'zalando', 'zalando Fallback';\n    font-weight: 400;\nfont-style: normal;\n\n}\n.variable {\n    --font-zalanso: 'zalando', 'zalando Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;;;AAOA;;;;;;;;;AAUA;;;;;;AAMA"}}]
+}
